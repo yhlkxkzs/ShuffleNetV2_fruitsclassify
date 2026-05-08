@@ -1,0 +1,17 @@
+{
+  "model_type": "shufflenet_v2",
+  "variant": "x1_0",
+  "num_classes": 10,
+  "classes": [
+    "apple",
+    "cherry",
+    "grape",
+    "lemon",
+    "mango",
+    "orange",
+    "pear",
+    "pistachio",
+    "strawberry",
+    "tomato"
+  ]
+}
